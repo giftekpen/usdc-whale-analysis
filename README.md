@@ -19,7 +19,7 @@ This repo contains two notebooks showcasing on-chain analytics work in DeFi usin
 - **Key Features:**  
   - Defined whale addresses to track.   
   - Built monitoring logic for transactions above $100k.    
-- **Notebook:** [whale_tracking.ipynb](./whale_tracking.ipynb)  
+- **Notebook:** [whale_tracking.ipynb](https://github.com/giftekpen/usdc-whale-analysis/blob/main/Whale%20txn%20%26%20monitoring%20(1).ipynb)  
 
 ---
 
