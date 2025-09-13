@@ -9,7 +9,7 @@ This repo contains two notebooks showcasing on-chain analytics work in DeFi usin
 - **Key Features:**  
   - Pulled USDC transfer data via APIs.  
   - Analyzed top inflow/outflow trends.  
-  - Visualized top liquidity patterns over time.  
+  - Visualized top 10 wallets by USDC volume.  
 - **Notebook:** [usdc_analysis.ipynb](https://github.com/giftekpen/usdc-whale-analysis/blob/main/USDC%20Analysis.ipynb)  
 
 ---
